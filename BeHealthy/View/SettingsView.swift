@@ -12,7 +12,7 @@ struct SettingsView: View {
     // MARK: - PROPERTIES
     
     @AppStorage("enableDarkMode") private var enableDarkMode = false
-
+    // save default preference setting on device
     
     var body: some View {
         VStack(alignment: .center, spacing: 0) {
