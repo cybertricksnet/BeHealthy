@@ -23,7 +23,7 @@ struct BehealthyView: View {
             .frame(width: 300, height:300, alignment: .center)
             .scaleEffect(self.pulsateAnimation ? 1 : 0.9)
             .opacity(self.pulsateAnimation ? 1 : 0.8)
-            .animation(Animation.easeInOut(duration: 1.9).repeatForever(autoreverses: true))
+            .animation(Animation.easeInOut(duration: 1.8).repeatForever(autoreverses: true))
          
         VStack{
             Text("BeHealthy")
