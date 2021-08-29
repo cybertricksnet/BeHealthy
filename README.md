@@ -1,6 +1,6 @@
-## BeHealthy iOS 15 App
+## BeHealthy - iOS 15 App
 
-<img align="left" src="https://media.giphy.com/media/n1cikLtpqWcZ6gbqxh/giphy.gif" width="280">
+<img align="left" src="https://media.giphy.com/media/n1cikLtpqWcZ6gbqxh/giphy.gif" width="280" height="500">
 
 ### About:
 
