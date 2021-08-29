@@ -15,5 +15,8 @@ This app has a very simple purpose, to help you be healthy by making healthier d
 
 <li>Guide on food intake based on user's weight, height and age.</li>
 <li>Allow user to join health challlenge with calendar events.</li>
+
+### Author:
+[Shiddarta Bahadur](https://github.com/syd-developer)
   
 
