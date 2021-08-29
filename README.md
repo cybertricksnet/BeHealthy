@@ -1,4 +1,4 @@
-## BeHealthy - iOS 15 App
+## BeHealthy 
 
 <img align="left" src="https://media.giphy.com/media/n1cikLtpqWcZ6gbqxh/giphy.gif" width="280" height="500">
 
@@ -9,7 +9,7 @@ This app has a very simple purpose, to help you be healthy by making healthier d
 ### Implementation:
 <li>Built with Swift & SwiftUI for for iPhone and iPad.</li>
 <li>Support Light and Dark mode appearance.</li>
-<li>Animation and adaptive colours with SwiftUI</li>
+<li>Animation and adaptive colours with SwiftUI.</li>
 
 ### Upcoming Features:
 
