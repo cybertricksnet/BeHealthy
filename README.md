@@ -1,4 +1,4 @@
-## `Swift` **BeHealthy** 
+## BeHealthy
 
 <img align="left" src="https://media.giphy.com/media/n1cikLtpqWcZ6gbqxh/giphy.gif" width="280">
 
