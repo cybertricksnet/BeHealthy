@@ -14,6 +14,6 @@ This app has a very simple purpose, to help you be healthy by making healthier d
 ### Upcoming Features
 
 <li>Guide on food intake based on user's weight, height and age.</li>
-<li>Allow user to join health challlenge with reminder and calendar events by using Evenkit.</li>
+<li>Allow user to join health challlenge with calendar events.</li>
   
 
