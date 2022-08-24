@@ -1,6 +1,6 @@
 ## BeHealthy 
 
-<img align="left" src="https://media.giphy.com/media/n1cikLtpqWcZ6gbqxh/giphy.gif" width="280" height="500">
+<img align="left" src="https://media.giphy.com/media/n1cikLtpqWcZ6gbqxh/giphy.gif" width="280" height="500" hspace="20">
 
 ### About:
 
@@ -16,6 +16,6 @@ This app has a very simple purpose, to help you be healthy by making healthier d
 <li>Guide on food intake based on user's weight, height and age.</li>
 <li>Allow user to join health challlenge with calendar events.</li>
 
-### Author: [Shiddarta Bahadur](https://github.com/syd-developer)
+### Author: [Syd Shiddarta](https://github.com/syd-developer)
   
 
