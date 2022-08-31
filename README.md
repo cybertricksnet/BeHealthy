@@ -1,6 +1,6 @@
 ## BeHealthy 
 
-<img align="left" src="https://media.giphy.com/media/n1cikLtpqWcZ6gbqxh/giphy.gif" width="280" height="500" hspace="20">
+![image](https://media.giphy.com/media/n1cikLtpqWcZ6gbqxh/giphy.gif)
 
 ### About:
 
@@ -17,5 +17,3 @@ This app has a very simple purpose, to help you be healthy by making healthier d
 <li>Allow user to join health challlenge with calendar events.</li>
 
 ### Author: [Syd Shiddarta](https://github.com/syd-developer)
-  
-
